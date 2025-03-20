@@ -1,5 +1,5 @@
 import React from 'react'
-import heroImg from '/Users/jhapr/Desktop/MovFlix/MovFlix/src/assets/hero.png'
+import heroImg from '../assets/hero.png'
 
 const Hero = () => {
   return (
